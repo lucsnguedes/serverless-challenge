@@ -46,7 +46,7 @@ functions:
     events:
       - http:
           path: images/{s3objectkey}
-          method: get #Método GET
+          method: get 
           cors: true
 
 resources:
