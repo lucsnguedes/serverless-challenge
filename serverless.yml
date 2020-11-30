@@ -20,7 +20,7 @@ provider:
         - dynamodb:DeleteItem
       Resource: "arn:aws:dynamodb:${opt:region, self:provider.region}:*:table/${self:provider.environment.DYNAMODB_TABLE}" #Identificador do banco de dados
 
-functions: #Define um endpoint de API HTTP que chama a função principal em extractMetadata
+functions: 
   extractMetadata: 
     handler: handler.extractMetadata
     description:
