@@ -1,0 +1,29 @@
+#AWS Lambda = Serviço de computação sem servidor que executa código em resposta a eventos e gerencia automaticamente
+os recursos computacionais subjacentes para você.   
+
+#DynamoDB = Banco de dados NOSQL de documentos e chave/valor que fornece desempenho inferior a 10 milissegundos em
+qualquer escala.
+
+#Amazon API Gateway - Serviço gerenciado que permite que desenvolvedores criem, publiquem, mantenham, monitorem e
+protejam APIs em qualquer escala com facilidade.
+
+#Amazon S3(buckets) = Serviço de armazenamento de objetos para a Internet projetado para facilitar a computação de escala na 
+web para os desenvolvedores.
+
+#Serveless = Arquitetura de computação orientada a eventos. Sua principal proposta é permitir que as empresas de software 
+criem e mantenham seus aplicativos web sem se preocupar com a infraestrutura em que esses aplicativos estão rodando.
+
+
+
+fontes de estudos para o desafio: 
+https://solvimm.com/blog/como-construir-sua-primeira-api-na-nuvem-com-o-serverless-framework/
+https://docs.python.org/pt-br/dev/library
+https://docs.aws.amazon.com/pt_br/lambda/latest/dg/with-ddb-example.html
+https://www.youtube.com/watch?v=ijyeE-pXFk0&t=1755s
+https://www.youtube.com/watch?v=Tc1YIOAbyS0&t=1271s
+https://www.youtube.com/watch?v=V1nJ7ZJ_o44&t=168s
+https://www.youtube.com/watch?v=71cd5XerKss
+https://www.youtube.com/watch?v=jiP45rEOEbA
+https://www.youtube.com/watch?v=WbHw14hF7lU
+https://www.youtube.com/watch?v=0w_vjcOy8nU
+https://www.youtube.com/watch?v=2oNovfw3V08
