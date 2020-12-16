@@ -44,7 +44,7 @@ def getMetadata(event, context): #'def' define a função e o parâmetro 'event'
 
     width = item['Item']['body']['width']['S'] # 'S' Define o valor recebido como string 
     height =  item['Item']['body']['height']['S']
-    size = item['Item']['body']['M']['size']['S']
+    size = item['Item']['body']['size']['S']
     format_img = item['Item']['Body']['format']['S']
     
 
